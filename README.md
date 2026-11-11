@@ -10,8 +10,8 @@ Software engineer in Istanbul, building **AI-powered and full-stack applications
 
 - **Languages:** Python · TypeScript/JavaScript · Java · C# · SQL
 - **AI / CV:** PyTorch · YOLOv8 · ResNet · OpenCV · pandas
-- **Backend & Data:** FastAPI · Node.js · NestJS · REST APIs · PostgreSQL · Supabase
-- **Frontend:** React , NextJS · ASP.NET MVC
+- **Backend & Data:** FastAPI · REST APIs · PostgreSQL · Supabase
+- **Frontend:** React , · ASP.NET MVC
 - **Tools:** Git/GitHub · PyInstaller
 
 ### Selected projects
