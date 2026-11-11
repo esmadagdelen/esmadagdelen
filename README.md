@@ -18,7 +18,6 @@ Software engineer in Istanbul, building **AI-powered and full-stack applications
 
 | Project | What it is | Stack |
 |---|---|---|
-| [harcama-takip](https://github.com/esmadagdelen/harcama-takip) | Full-stack expense tracking app with a REST API and PostgreSQL | TypeScript, Node.js, NestJS, PostgreSQL |
 | [BrainTumorClassification](https://github.com/esmadagdelen/BrainTumorClassification) | CNN that classifies brain tumors in MRI images, with performance visualizations | Python, Jupyter |
 | [Ogrenci-Otomasyon-Sistemi](https://github.com/esmadagdelen/Ogrenci-Otomasyon-Sistemi) | Student management system with admin, teacher and student roles | C# |
 | [Saglik-Ocagi-Otomasyon-Sistemi](https://github.com/esmadagdelen/Saglik-Ocagi-Otomasyon-Sistemi) | Health center desktop automation, with UI and business logic in separate layers | Java |
