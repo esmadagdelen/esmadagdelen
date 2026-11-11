@@ -18,6 +18,7 @@ Software engineer in Istanbul, building **AI-powered and full-stack applications
 
 | Project | What it is | Stack |
 |---|---|---|
+| [tubitak-radiology-tumor-detection](https://github.com/esmadagdelen/tubitak-radiology-tumor-detection) 🚧 | TÜBİTAK 2209-A research project (in progress): do simple image enhancement methods help CNNs detect tumors in low-quality radiology images? | Python, PyTorch, OpenCV |
 | [BrainTumorClassification](https://github.com/esmadagdelen/BrainTumorClassification) | CNN that classifies brain tumors in MRI images, with performance visualizations | Python, Jupyter |
 | [Ogrenci-Otomasyon-Sistemi](https://github.com/esmadagdelen/Ogrenci-Otomasyon-Sistemi) | Student management system with admin, teacher and student roles | C# |
 | [Saglik-Ocagi-Otomasyon-Sistemi](https://github.com/esmadagdelen/Saglik-Ocagi-Otomasyon-Sistemi) | Health center desktop automation, with UI and business logic in separate layers | Java |
